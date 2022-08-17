@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hedecai
+- 👀 I’m interested in software
+- 🌱 I’m currently learning linux
+- 📫 let's go
